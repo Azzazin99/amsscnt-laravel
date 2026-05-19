@@ -1,0 +1,12 @@
+.git
+.github
+node_modules
+vendor
+test_upload_file.pdf
+test_upload_file.txt
+.env
+.DS_Store
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/logs/*
